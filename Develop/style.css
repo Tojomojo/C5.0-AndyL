@@ -54,7 +54,7 @@ textarea {
 
 .future {
   background-color: #77dd77;
-  color: white;
+  color: grey;
 }
 
 .saveBtn {
@@ -73,4 +73,20 @@ textarea {
 .container {
   flex-wrap: wrap;
   background-color: grey;
+}
+
+.images {
+  height: 70px;
+  width: 70px;
+  padding:0%;
+  justify-content: right;
+  flex-direction: column;
+}
+
+.Event-control {
+  width: 1600px;
+}
+
+.hide {
+  display: none;
 }
